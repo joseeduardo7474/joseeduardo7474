@@ -1,6 +1,5 @@
 # 💫 About Me:
-Estudante de contabilidade da USP, muito interessado em finanças e em programação.<br>
-
+Accounting student at USP, very interested in finance and programming.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/josé-eduardo-z123) 

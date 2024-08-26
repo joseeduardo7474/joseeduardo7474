@@ -11,7 +11,7 @@ Estudante de contabilidade na FEA-USP, muito interessado em Finanças e Programa
 # <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Overview dos últimos projetos <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
 
 <img src="https://raw.githubusercontent.com/joseeduardo7474/Fea_dev/main/FInan%C3%A7as%20Quantitativas/Case%20dos%20macaquinhos/M%C3%A9dia%20m%C3%B3vel%20PETR3.png" width = "45%"></img>
-<img src="https://raw.githubusercontent.com/joseeduardo7474/Fea_dev/main/FInan%C3%A7as%20Quantitativas/Case%20dos%20macaquinhos/candlestick%20PETR3.png" width = "45%"></img>
+<img src="https://raw.githubusercontent.com/joseeduardo7474/Fea_dev/main/FInan%C3%A7as%20Quantitativas/Case%20dos%20macaquinhos/Fronteira%20eficiente%20markowitz.jpg" width = "45%"></img>
 
 
 <img src="https://raw.githubusercontent.com/joseeduardo7474/analise-da-breja/main/Gr%C3%A1ficos.png" width = "45%"></img>

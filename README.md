@@ -20,7 +20,7 @@ Estudante de contabilidade na FEA-USP, muito interessado em Finanças e Programa
 
 # 🌐 Social:
 [<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50">](https://www.linkedin.com/in/jos%C3%A9-eduardo-z123/)
-[<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="50">](https://www.instagram.com/jose_sarrico/)
+[<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="50">](https://www.instagram.com/joseduardo.py/)
 
 
 # 💻 Tech Stack:
